@@ -7,10 +7,10 @@
 
 - 📄 Have a look at my resume [https://tanmay-codeol.github.io/](https://tanmay-codeol.github.io/)
 
-- ⚡ Fun Websites to checkout! (i made 'em 😊)
-- ⚡  ** Apexwolf ** - A cryptoExhange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/)
-- ⚡  ** AnimeLens ** - search anime-details from any random still from any anime!!! [https://animelens-e77d2.web.app/](https://animelens-e77d2.web.app/)
-- 
+- ⚡ Fun Websites to checkout! (i made 'em 😊) -->
+  - ⚡  **Apexwolf** - A cryptoExhange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/)
+  - ⚡  **AnimeLens** - search anime-details from any random still from any anime!!! [https://animelens-e77d2.web.app/](https://animelens-e77d2.web.app/)
+
 - **I am bankrupt cuz i used up all my cache 😊**
 
 <h3 align="left">Connect with me:</h3>
