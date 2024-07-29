@@ -5,6 +5,18 @@
 
 
 
+<style>
+  h3 {
+    display: inline;
+  }
+</style>
+
+<style>
+  h4 {
+    display: inline;
+  }
+</style>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanmay-codeol?tab=repositories](https://github.com/Tanmay-codeol?tab=repositories) [more details below]
 
@@ -25,7 +37,7 @@
 
   -<h3>⚡ AnimeLens</h3> <h4>search anime-details from any random still from any anime!!! [https://animelenz.vercel.app](https://animelenz.vercel.app) | [CodeBase](https://github.com/Tanmay-codeol/AnimeLens)</h4>
 
-  -<h3>⚡ Hibiki- Apple Music Client for Linux Distros with New Codec** </h3> <h4>Still in Development</h4>
+  -<h3>⚡ Hibiki - Apple Music Client for Linux Distros with New Codec</h3> <h4>Still in Development</h4>
 
 <br>
 <br>
