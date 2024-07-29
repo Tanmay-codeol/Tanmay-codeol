@@ -19,22 +19,22 @@
 
 - 📄 Have a look at my resume [https://tanmay-codeol.github.io/](https://tanmay-codeol.github.io/)
 
-- ⚡ <h3>Fun Projects to checkout! (i made 'em 😊) --> </h3>
-  - ⚡  **Apexwolf [Web3]** - A decentralized blockchain based crypto-exchange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/) [CodeBase](https://github.com/Tanmay-codeol/ApexWolf-Crypto_Exchange/)
-  - ⚡  **AnimeLens** - search anime-details from any random still from any anime!!! [https://animelenz.vercel.app](https://animelenz.vercel.app) [CodeBase](https://github.com/Tanmay-codeol/AnimeLens)
-  - ⚡  **Hibiki - Apple Music Client for Linux Distros with New Codec** -Still in Development
- 
-<h3>
+- ⚡ <h2>Fun Projects to checkout! (i made 'em 😊) --> </h2>
+  - ⚡  **Apexwolf [Web3]** - <h4>A decentralized blockchain based crypto-exchange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/) [CodeBase](https://github.com/Tanmay-codeol/ApexWolf-Crypto_Exchange/)</h4>
+  - ⚡  **AnimeLens** - <h4>search anime-details from any random still from any anime!!! [https://animelenz.vercel.app](https://animelenz.vercel.app) [CodeBase](https://github.com/Tanmay-codeol/AnimeLens)</h4>
+  - ⚡  **Hibiki - Apple Music Client for Linux Distros with New Codec** -<h4>Still in Development</h4>
 
-- ⚡ More Intresting Projects! -->
-  - ⚡  **Azaadi : ChandraShekhar Azad Game (10k+ Downloads)** - A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at [Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) , [Source Code](https://github.com/Tanmay-codeol/Main-game)
-  - ⚡  **Social Media DApp (backend)[ Web3 ]** - Implemented A Backend for a blockchain based Social Media App (freelance Project) with over 148 functions implemented [Source Code](https://github.com/Tanmay-codeol/Social_Dapp_backend)
-  - ⚡  **Crypto-Crysis [NFT-Stealing Zombie Eating Blockchain Game]** - A decentralized zombie game in which players can attack the zombies and increase their levels , create zombies and make them feed on other zombies to change their dna configurations ( they dont know how to mate!)  [Source Code](https://github.com/Tanmay-codeol/Crypto-Crysis)
-  - ⚡  **Solana Spl Token Swapper [ WEB3 ]** - This project contains a JavaScript script to swap Solana SPL tokens using the Solana blockchain and the Serum decentralized exchange (DEX). [Source Code](https://github.com/Tanmay-codeol/solana-spl-token-swap/)
-  - ⚡  **One-Piece-NFT-Generator [ WEB3 ]** - One piece (anime) characters Based NFT Generator [Source Code](https://github.com/Tanmay-codeol/one-piece-nft-gen)
-  - ⚡  **AR/VR Simulation for coal mining trainees [ APP ]** - Simulation App for new coal miners to get the feel how actually a coal mine looks like, without any dangers! Hackathon Finalist Project [Source Code](https://github.com/Tanmay-codeol/AR-VR-Simulation-For-Coal-Miners)
 
-</h3>
+
+- ⚡ <h4> More Intresting Projects! --></h4>
+  - ⚡  **Azaadi : ChandraShekhar Azad Game (10k+ Downloads)** - <h4>A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at [Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) , [Source Code](https://github.com/Tanmay-codeol/Main-game)</h4>
+  - ⚡  **Social Media DApp (backend)[ Web3 ]** - <h4>Implemented A Backend for a blockchain based Social Media App (freelance Project) with over 148 functions implemented [Source Code](https://github.com/Tanmay-codeol/Social_Dapp_backend)</h4>
+  - ⚡  **Crypto-Crysis [NFT-Stealing Zombie Eating Blockchain Game]** - <h4>A decentralized zombie game in which players can attack the zombies and increase their levels , create zombies and make them feed on other zombies to change their dna configurations ( they dont know how to mate!)  [Source Code](https://github.com/Tanmay-codeol/Crypto-Crysis)</h4>
+  - ⚡  **Solana Spl Token Swapper [ WEB3 ]** - <h4>This project contains a JavaScript script to swap Solana SPL tokens using the Solana blockchain and the Serum decentralized exchange (DEX). [Source Code](https://github.com/Tanmay-codeol/solana-spl-token-swap/)</h4>
+  - ⚡  **One-Piece-NFT-Generator [ WEB3 ]** - <h4>One piece (anime) characters Based NFT Generator [Source Code](https://github.com/Tanmay-codeol/one-piece-nft-gen)</h4>
+  - ⚡  **AR/VR Simulation for coal mining trainees [ APP ]** - <h4>Simulation App for new coal miners to get the feel how actually a coal mine looks like, without any dangers! Hackathon Finalist Project [Source Code](https://github.com/Tanmay-codeol/AR-VR-Simulation-For-Coal-Miners)</h4>
+
+
 
 - **I am bankrupt cuz i used up all my cache 😊**
 
