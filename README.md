@@ -32,13 +32,14 @@
 <br>
 <br>
 
-- ⚡ Fun Websites to checkout! (i made 'em 😊) -->
-  - ⚡  **Azaadi : ChandraShekhar Azad Game (10k+ Downloads)** - A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at [Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) | [Source Code](https://github.com/Tanmay-codeol/Main-game)
-  - ⚡  **Social Media DApp (backend)[ Web3 ]** - Implemented A Backend for a blockchain based Social Media App (freelance Project) with over 148 functions implemented [Source Code](https://github.com/Tanmay-codeol/Social_Dapp_backend)
-  - ⚡  **Crypto-Crysis [NFT-Stealing Zombie Eating Blockchain Game]** - A decentralized zombie game in which players can attack the zombies and increase their levels , create zombies and make them feed on other zombies to change their dna configurations ( they dont know how to mate!)  [Source Code](https://github.com/Tanmay-codeol/Crypto-Crysis)
-  - ⚡  **Solana Spl Token Swapper [ WEB3 ]** - This project contains a JavaScript script to swap Solana SPL tokens using the Solana blockchain and the Serum decentralized exchange (DEX). [Source Code](https://github.com/Tanmay-codeol/solana-spl-token-swap/)
-  - ⚡  **One-Piece-NFT-Generator [ WEB3 ]** - One piece (anime) characters Based NFT Generator [Source Code](https://github.com/Tanmay-codeol/one-piece-nft-gen)
-  - ⚡  **AR/VR Simulation for coal mining trainees [ APP ]** - imulation App for new coal miners to get the feel how actually a coal mine looks like, without any dangers! Hackathon Finalist Project [Source Code](https://github.com/Tanmay-codeol/AR-VR-Simulation-For-Coal-Miners)
+- ⚡ More Projects!!! --><br>
+  - ⚡  **Azaadi : ChandraShekhar Azad Game (10k+ Downloads)** - A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at [Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) | [Source Code](https://github.com/Tanmay-codeol/Main-game)<br>
+  - ⚡  **Social Media DApp (backend)[ Web3 ]** - Implemented A Backend for a blockchain based Social Media App (freelance Project) with over 148 functions implemented [Source Code](https://github.com/Tanmay-codeol/Social_Dapp_backend)<br>
+  - ⚡  **Crypto-Crysis [NFT-Stealing Zombie Eating Blockchain Game]** - A decentralized zombie game in which players can attack the zombies and increase their levels , create zombies and make them feed on other zombies to change their dna configurations ( they dont know how to mate!)  [Source Code](https://github.com/Tanmay-codeol/Crypto-Crysis)<br>
+  - ⚡  **Solana Spl Token Swapper [ WEB3 ]** - This project contains a JavaScript script to swap Solana SPL tokens using the Solana blockchain and the Serum decentralized exchange (DEX). [Source Code](https://github.com/Tanmay-codeol/solana-spl-token-swap/)<br>
+  - ⚡  **One-Piece-NFT-Generator [ WEB3 ]** - One piece (anime) characters Based NFT Generator [Source Code](https://github.com/Tanmay-codeol/one-piece-nft-gen)<br>
+  - ⚡  **AR/VR Simulation for coal mining trainees [ APP ]** - imulation App for new coal miners to get the feel how actually a coal mine looks like, without any dangers! Hackathon Finalist Project [Source Code](https://github.com/Tanmay-codeol/AR-VR-Simulation-For-Coal-Miners)<br>
+  <br>
 
 
 
