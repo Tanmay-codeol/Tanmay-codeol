@@ -5,19 +5,6 @@
 
 
 
-<style>
-  h3 {
-    display: inline;
-  }
-</style>
-
-<style>
-  h4 {
-    display: inline;
-  }
-</style>
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/Tanmay-codeol?tab=repositories](https://github.com/Tanmay-codeol?tab=repositories) [more details below]
 
 - 📫 How to reach me **tanmaysharma0852@gmail.com**
@@ -33,7 +20,7 @@
 
 
 -<h2>Fun Projects to checkout! (i made 'em 😊) --> </h2>
-  -<h3>⚡ Apexwolf [Web3]</h3> <h4>A decentralized blockchain based crypto-exchange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/) |  [CodeBase](https://github.com/Tanmay-codeol/ApexWolf-Crypto_Exchange/)</h4>
+  -<h3 style="display: inline;">⚡ Apexwolf [Web3]</h3> <h4 style="display: inline;">A decentralized blockchain based crypto-exchange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/) |  [CodeBase](https://github.com/Tanmay-codeol/ApexWolf-Crypto_Exchange/)</h4>
 
   -<h3>⚡ AnimeLens</h3> <h4>search anime-details from any random still from any anime!!! [https://animelenz.vercel.app](https://animelenz.vercel.app) | [CodeBase](https://github.com/Tanmay-codeol/AnimeLens)</h4>
 
