@@ -30,7 +30,7 @@
 <br>
 <br>
 
--  <h2> More Intresting Projects! --></h2>
+-<h2> More Intresting Projects! --></h2>
   -<h3>⚡ Azaadi : ChandraShekhar Azad Game (10k+ Downloads)</h3> <h4>A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at [Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) | [Source Code](https://github.com/Tanmay-codeol/Main-game)</h4>
 
   -<h3>⚡ Social Media DApp (backend)[ Web3 ]</h3> <h4>Implemented A Backend for a blockchain based Social Media App (freelance Project) with over 148 functions implemented [Source Code](https://github.com/Tanmay-codeol/Social_Dapp_backend)</h4>
@@ -45,7 +45,6 @@
 <br>
 
 
-- **I am bankrupt cuz i used up all my cache 😊**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -58,6 +57,7 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 
 
+-**I am bankrupt cuz i used up all my cache 😊**
 
 
 
