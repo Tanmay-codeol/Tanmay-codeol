@@ -27,9 +27,9 @@
 <br>
 <br>
 
-- <h2> More Intresting Projects! --></h2>
-  - ⚡  **Azaadi : ChandraShekhar Azad Game (10k+ Downloads)** - <h4>A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at </h4>[Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) | [Source Code](https://github.com/Tanmay-codeol/Main-game)
-  - ⚡  **Social Media DApp (backend)[ Web3 ]** - <h4>A Backend for a blockchain based Social Media App (freelance Project) with over 148 functions implemented [Source Code](https://github.com/Tanmay-codeol/Social_Dapp_backend)</h4>
+- ⚡ <h4> More Intresting Projects! --></h4>
+  - ⚡  **Azaadi : ChandraShekhar Azad Game (10k+ Downloads)** - <h4>A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at [Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) , [Source Code](https://github.com/Tanmay-codeol/Main-game)</h4>
+  - ⚡  **Social Media DApp (backend)[ Web3 ]** - <h4>Implemented A Backend for a blockchain based Social Media App (freelance Project) with over 148 functions implemented [Source Code](https://github.com/Tanmay-codeol/Social_Dapp_backend)</h4>
   - ⚡  **Crypto-Crysis [NFT-Stealing Zombie Eating Blockchain Game]** - <h4>A decentralized zombie game in which players can attack the zombies and increase their levels , create zombies and make them feed on other zombies to change their dna configurations ( they dont know how to mate!)  [Source Code](https://github.com/Tanmay-codeol/Crypto-Crysis)</h4>
   - ⚡  **Solana Spl Token Swapper [ WEB3 ]** - <h4>This project contains a JavaScript script to swap Solana SPL tokens using the Solana blockchain and the Serum decentralized exchange (DEX). [Source Code](https://github.com/Tanmay-codeol/solana-spl-token-swap/)</h4>
   - ⚡  **One-Piece-NFT-Generator [ WEB3 ]** - <h4>One piece (anime) characters Based NFT Generator [Source Code](https://github.com/Tanmay-codeol/one-piece-nft-gen)</h4>
@@ -38,6 +38,7 @@
 
 
 - **I am bankrupt cuz i used up all my cache 😊**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
