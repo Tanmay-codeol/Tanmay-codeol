@@ -31,9 +31,10 @@
 <br>
 <br>
 
-- ⚡ <h4> More Intresting Projects! --></h4>
-  - ⚡  **Azaadi : ChandraShekhar Azad Game (10k+ Downloads)** - <h4>A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at [Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) , [Source Code](https://github.com/Tanmay-codeol/Main-game)</h4>
+-  <h4> More Intresting Projects! --></h4>
+  - ⚡  **Azaadi : ChandraShekhar Azad Game (10k+ Downloads)** - <h4>A Tribute game for Indian Freedom Fighter ChandraShekhar Azad to spread awareness about him! Available at [Play Store](https://play.google.com/store/apps/details?id=com.DefaultCompany.AzadiChandrashekarAzad&hl=en_IN) | [Source Code](https://github.com/Tanmay-codeol/Main-game)</h4>
 <br>
+
   - ⚡  **Social Media DApp (backend)[ Web3 ]** - <h4>Implemented A Backend for a blockchain based Social Media App (freelance Project) with over 148 functions implemented [Source Code](https://github.com/Tanmay-codeol/Social_Dapp_backend)</h4>
 <br>
 
