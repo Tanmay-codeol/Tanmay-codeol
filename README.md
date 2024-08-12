@@ -20,7 +20,8 @@
 
 - ⚡ Fun Websites to checkout! (i made 'em 😊) -->
   - ⚡  **Apexwolf** - A decentralized blockchain based crypto-exchange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/) |  [CodeBase](https://github.com/Tanmay-codeol/ApexWolf-Crypto_Exchange/)
-  - ⚡  **AnimeLens** - search anime-details from any random still from any anime!!! [https://animelens-e77d2.web.app/](https://animelens-e77d2.web.app/)
+  - ⚡  **AnimeLens** - search anime-details from any random still from any anime!!! [https://animelens-e77d2.web.app/](https://animelens-e77d2.web.app/) | [CodeBase](https://github.com/Tanmay-codeol/AnimeLens)
+  - - ⚡  **WEB3 based AnimeLens (solana)** -  [https://animelens-web3.vercel.app/](https://animelens-web3.vercel.app/) | [CodeBase](https://github.com/Tanmay-codeol/AnimeLens-Solana)
   - ⚡  **Hibiki - Apple Music Client for Linux Distros with New Codec** - Still in Development 
 <!-- -<h2>Fun Projects to checkout! (i made 'em 😊) </h2> -->
   <!-- -<h3 style="display: inline;">⚡ Apexwolf [Web3]</h3> <h4 style="display: inline;">A decentralized blockchain based crypto-exchange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/) |  [CodeBase](https://github.com/Tanmay-codeol/ApexWolf-Crypto_Exchange/)</h4> -->
