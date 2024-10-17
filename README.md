@@ -16,7 +16,7 @@
 
 
 
-- 📄 Have a look at my resume [https://tanmay-codeol.github.io/](https://tanmay-codeol.github.io/)
+- 📄 Have a look at my resume [https://tanmay-codeol.github.io/](https://github.com/Tanmay-codeol/Tanmay-codeol.github.io/blob/main/Blockchain_Resume.pdf)
 
 - ⚡ Fun Websites to checkout! (i made 'em 😊) -->
   - ⚡  **Apexwolf** - A decentralized blockchain based crypto-exchange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/) |  [CodeBase](https://github.com/Tanmay-codeol/ApexWolf-Crypto_Exchange/)
