@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanmay Sharma</h1>
 <h3 align="center">Dynamic Software Engineer | Web / Blockchain / Game Developer : Passionate technology enthusiast with hands-on experience as a Web3/Smart Contract developer and game developer. Over the past two years, I have successfully completed 12+ projects as a freelance Web3/Smart Contract developer and gained significant experience in game development. My expertise spans blockchain technology, Full Stack Development, game development, Web development and computer architecture.
-  With a diverse skill set and a dedication to innovation, I deliver efficient solutions in web development, blockchain, and game development.</h3>
+  With a diverse skill set and a dedication to innovation, I deliver efficient solutions attaining all the requirements! </h3>
 
 
 
