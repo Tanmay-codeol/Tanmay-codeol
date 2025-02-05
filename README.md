@@ -20,6 +20,7 @@
 
 - ⚡ Fun Websites to checkout! (i made 'em 😊) -->
   - ⚡  **Apexwolf** - A decentralized blockchain based crypto-exchange Website with "Fun" GIFs [https://apexwolf-f8480.web.app/](https://apexwolf-f8480.web.app/) |  [CodeBase](https://github.com/Tanmay-codeol/ApexWolf-Crypto_Exchange/)
+  - ⚡ **SolMemeWars** - Solana meme wars - a platform where people can actually own memes! post your own memes now! [https://sol-meme-wars.vercel.app/](https://sol-meme-wars.vercel.app/) | [CodeBase](https://github.com/Tanmay-codeol/Sol-meme-wars)
   - ⚡  **AnimeLens** - search anime-details from any random still from any anime!!! [https://animelens-e77d2.web.app/](https://animelens-e77d2.web.app/) | [CodeBase](https://github.com/Tanmay-codeol/AnimeLens)
   - - ⚡  **WEB3 based AnimeLens (solana)** -  [https://animelens-web3.vercel.app/](https://animelens-web3.vercel.app/) | [CodeBase](https://github.com/Tanmay-codeol/AnimeLens-Solana)
   - ⚡  **Hibiki - Apple Music Client for Linux Distros with New Codec** - Still in Development 
